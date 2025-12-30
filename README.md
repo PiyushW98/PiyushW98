@@ -47,8 +47,6 @@ Passionate about building scalable cloud infrastructure and automating deploymen
 
 ## Competetive Profiles
 [![CodeChef](https://img.shields.io/badge/CodeChef-E94E53?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/piyushwasekar)
-[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-Profile-orange?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/codestudio/PiyushW98)
-
 
 
 ## Currently Learning
