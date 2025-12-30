@@ -51,7 +51,7 @@ Passionate about building scalable cloud infrastructure and automating deploymen
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo**
+[![LinkedIn](https://www.linkedin.com/in/piyush-wasekar-1307a71b8/)![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo**
 
 ⚡ Fun Fact**: Passionate about hands-on labs and turning interview prep into real-world projects.
 
