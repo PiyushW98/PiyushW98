@@ -38,9 +38,12 @@ Passionate about building scalable cloud infrastructure and automating deploymen
 - **Kubernetes Troubleshooting**: Hands-on debugging of CrashLoopBackOff, Pending pods, and CRDs.
 - **Cloud Migration & Optimization**: Research and implementation of migration stages, cost-optimization strategies.
 
+<!---
 ## GitHub Stats
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushW98&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+--->
 
 ## Currently Learning
 
