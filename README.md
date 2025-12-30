@@ -40,8 +40,7 @@ Passionate about building scalable cloud infrastructure and automating deploymen
 
 ## GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushW98&layout=compact&theme)]
-[![Metrics](https://github-readme-stats.vercel.app/api?username=PiyushW98&show_icons=true&theme=radical)]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushW98&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Currently Learning
 
