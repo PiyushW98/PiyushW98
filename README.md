@@ -45,6 +45,10 @@ Passionate about building scalable cloud infrastructure and automating deploymen
 
 --->
 
+## Competetive Profiles
+[![CodeChef Stats](https://codechef-readme-stats.onrender.com/piyushwasekar?v=1)](https://www.codechef.com/users/piyushwasekar)
+
+
 ## Currently Learning
 
 - Advanced GitOps with ArgoCD
