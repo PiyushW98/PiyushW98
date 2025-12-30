@@ -47,7 +47,7 @@ Passionate about building scalable cloud infrastructure and automating deploymen
 
 ## Competetive Profiles
 [![CodeChef](https://img.shields.io/badge/CodeChef-E94E53?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/piyushwasekar)
-[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-Profile-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDUiIGhlaWdodD0iNDUiIHZpZXdCb3g9IjAgMCA0NSA0NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Ik0zNSAxM2gtNkwyMSA0aC0zVjJoM2wtNiA5aDdsLTQtMTN6IiBmaWxsPSIjRkZDNUIxIi8+PC9nPjwvc3ZnPg==&logoColor=white)](https://www.codingninjas.com/codestudio/PiyushW98)
+[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-Profile-orange?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/codestudio/PiyushW98)
 
 
 
