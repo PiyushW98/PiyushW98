@@ -46,6 +46,7 @@ Passionate about building scalable cloud infrastructure and automating deploymen
 --->
 
 ## Competetive Profiles
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/PiyushW98/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-E94E53?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/piyushwasekar)
 
 
